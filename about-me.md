@@ -13,5 +13,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/kkq5F6jC5e) 
 
 ## MY WORKS 
-### [SIMON SAYS](https://github.com/eternallyshadow/simon-says)
-![simonsays](https://github.com/eternallyshadow/eternallyshadow/blob/main/(1).gif)
+### SIMON SAYS
+[Simon says](https://github.com/eternallyshadow/simon-says) is a mini game that tests the player's memory by allowing the players to memorize the order in which the tiles blink and create the same blinking pattern based upon the memoried order.
