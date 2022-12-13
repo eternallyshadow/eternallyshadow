@@ -4,7 +4,7 @@
 -  My name is Bhavya Kataria
 -  I’m currently learning python, java
 -  Contact me on : insta/discord/email
--  Email : eternallyshadow@gmail.com
+-  Email : eternallybhavya@gmail.com
 -  Pronouns: he/him
 
 ## SOCIAL LINKS
