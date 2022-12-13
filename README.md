@@ -14,4 +14,4 @@
 ## MY WORKS 
 ### [SIMON SAYS](https://github.com/eternallyshadow/simon-says)
 -  Simon says is a mini game that tests the player's memory.
-![simonsays](https://github.com/eternallyshadow/eternallyshadow/blob/main/simon-says-git-repo.jpg)
+![simonsays](https://github.com/eternallyshadow/eternallyshadow/blob/main/(1).gif)
