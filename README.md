@@ -5,7 +5,7 @@
 -  I’m currently learning python, java
 -  Contact me on : insta/discord/email
 -  Email : eternallybhavya@gmail.com
--  Pronouns: he/him
+-  Pronouns : he/him
 
 ## SOCIAL LINKS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eternallyshadow)
